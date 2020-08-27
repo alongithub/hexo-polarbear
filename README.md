@@ -1,5 +1,10 @@
 # hexo-theme-polarbear
 
+
+基于 hexo-theme-polarbear主题增加了文章目录导航
+
+![](./1.png)
+
 > A super light and simple theme.
 
 [Theme Demo](https://d2fan.com)
